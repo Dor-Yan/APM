@@ -2,7 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\app"
+    "\\src\\api",
+    "\\src\\api\\products",
+    "\\src\\app",
+    "\\src\\app\\products"
   ],
+  "SelectedNode": "\\src\\api\\products\\products.json",
   "PreviewInSolutionExplorer": false
 }
