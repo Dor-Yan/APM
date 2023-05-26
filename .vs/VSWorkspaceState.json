@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\api",
-    "\\src\\api\\products",
-    "\\src\\app",
-    "\\src\\app\\products"
+    "\\src\\app"
   ],
+  "SelectedNode": "\\src\\app\\products",
   "PreviewInSolutionExplorer": false
 }
